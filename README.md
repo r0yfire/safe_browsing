@@ -17,7 +17,10 @@ Usage
 -----
 
 	cat urlsnarf.log | ./safe_browsing.py -c report.csv
+	
 or
+	
 	./safe_browsing.py -f urlsnarf.log -c report.csv
+	
 	
 
